@@ -7,17 +7,17 @@ Analisis de partidos a lo largo de los años, contiene un análisis exploratorio
 **Pasos realizados:**
 1. **Extracción:** Se importó el dataset desde una fuente pública kaggle.  
 2. **Transformación:**  
-   - Eliminación de nulos y duplicados.  
-   - Conversión de la columna de fecha a tipo datetime.  
-   - Renombre de columnas para facilitar el acceso.
-   - Creación de nuevas variables:
-     -'DifGoles': diferencia de goles.
-     - 'Resultado': resultado del local (gana, empata o pierde).
+ *Eliminación de nulos y duplicados.  
+ *Conversión de la columna de fecha a tipo datetime.  
+ *Renombre de columnas para facilitar el acceso.
+ * Creación de nuevas variables:
+'DifGoles': diferencia de goles.
+'Resultado': resultado del local (gana, empata o pierde).
 3. **Carga:** Se generó un archivo limpio (ResultadosFulbo.csv) listo para análisis.
 
 **Analisis**
-- Partidos Selección Argentina.  
-- Total partidos Selección Argentina.  
-- Tabla pivote 
+ *Partidos Selección Argentina.  
+ *Total partidos Selección Argentina.  
+ *Tabla pivote 
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisTrassani/analisis-futbol-argentina/blob/main/Resultados.ipynb)
