@@ -20,4 +20,4 @@ Analisis de partidos a lo largo de los años, contiene un análisis exploratorio
 - Total partidos Selección Argentina.  
 - Tabla pivote 
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ltrassani/analisis-futbol-argentina/blob/main/Resultados.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisTrassani/analisis-futbol-argentina/blob/main/Resultados.ipynb)
